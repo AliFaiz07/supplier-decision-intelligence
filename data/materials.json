@@ -1,0 +1,205 @@
+[
+  {
+    "material_id": "MAT-001",
+    "description": "Hydraulic Directional Control Valve HSV-40",
+    "material_group": "GRP-HYD",
+    "base_uom": "EA",
+    "procurement_type": "F (External)",
+    "criticality": "Critical",
+    "quality_sensitivity": "High",
+    "price_behavior": "Moderate Stability",
+    "standard_lead_time_days": 14,
+    "benchmark_price_eur": 210.0,
+    "plant_relevance": [
+      "P001",
+      "P002",
+      "P003"
+    ],
+    "sourcing_strategy": "Dual Sourcing Recommended",
+    "defect_tolerance_ppm": 200,
+    "min_order_qty": 50,
+    "lot_size": "EX"
+  },
+  {
+    "material_id": "MAT-002",
+    "description": "High-Tensile Structural Fastener M16x80 Grade 10.9",
+    "material_group": "GRP-FAS",
+    "base_uom": "PC",
+    "procurement_type": "F (External)",
+    "criticality": "Standard",
+    "quality_sensitivity": "Medium",
+    "price_behavior": "Commodity Fluctuating",
+    "standard_lead_time_days": 7,
+    "benchmark_price_eur": 4.25,
+    "plant_relevance": [
+      "P001",
+      "P002"
+    ],
+    "sourcing_strategy": "Multi Sourcing / Cost Driven",
+    "defect_tolerance_ppm": 800,
+    "min_order_qty": 1000,
+    "lot_size": "FX"
+  },
+  {
+    "material_id": "MAT-003",
+    "description": "Precision Ceramic Hybrid Ball Bearing 6205-2RS",
+    "material_group": "GRP-BEA",
+    "base_uom": "EA",
+    "procurement_type": "F (External)",
+    "criticality": "Critical",
+    "quality_sensitivity": "Extremely High",
+    "price_behavior": "Premium High Stability",
+    "standard_lead_time_days": 21,
+    "benchmark_price_eur": 85.5,
+    "plant_relevance": [
+      "P001",
+      "P003"
+    ],
+    "sourcing_strategy": "Preferred Certified Suppliers Only",
+    "defect_tolerance_ppm": 50,
+    "min_order_qty": 100,
+    "lot_size": "EX"
+  },
+  {
+    "material_id": "MAT-004",
+    "description": "Synthetic High-Performance Hydraulic Fluid HLP-46",
+    "material_group": "GRP-CHEM",
+    "base_uom": "L",
+    "procurement_type": "F (External)",
+    "criticality": "Consumable",
+    "quality_sensitivity": "Medium",
+    "price_behavior": "Seasonal Oil Indexed",
+    "standard_lead_time_days": 5,
+    "benchmark_price_eur": 6.8,
+    "plant_relevance": [
+      "P001",
+      "P002",
+      "P003"
+    ],
+    "sourcing_strategy": "Framework Contract Preferred",
+    "defect_tolerance_ppm": 500,
+    "min_order_qty": 500,
+    "lot_size": "WB"
+  },
+  {
+    "material_id": "MAT-005",
+    "description": "Automotive Grade 32-Bit Microcontroller Unit MCU-88",
+    "material_group": "GRP-ELEC",
+    "base_uom": "PC",
+    "procurement_type": "F (External)",
+    "criticality": "Critical",
+    "quality_sensitivity": "High",
+    "price_behavior": "Global Semiconductor Volatile",
+    "standard_lead_time_days": 45,
+    "benchmark_price_eur": 38.0,
+    "plant_relevance": [
+      "P001",
+      "P002"
+    ],
+    "sourcing_strategy": "Global Sourcing with Buffer Stock",
+    "defect_tolerance_ppm": 100,
+    "min_order_qty": 500,
+    "lot_size": "FX"
+  },
+  {
+    "material_id": "MAT-006",
+    "description": "Drop-Forged 6-Cylinder Crankshaft Blank FC-700",
+    "material_group": "GRP-MET",
+    "base_uom": "EA",
+    "procurement_type": "F (External)",
+    "criticality": "Production Critical",
+    "quality_sensitivity": "High",
+    "price_behavior": "Scrap Surcharge Indexed",
+    "standard_lead_time_days": 30,
+    "benchmark_price_eur": 450.0,
+    "plant_relevance": [
+      "P001",
+      "P003"
+    ],
+    "sourcing_strategy": "Capacity Constrained / Quota Allocation",
+    "defect_tolerance_ppm": 150,
+    "min_order_qty": 50,
+    "lot_size": "EX"
+  },
+  {
+    "material_id": "MAT-007",
+    "description": "Fluorocarbon O-Ring Sealing Ring Viton V-90 45x3mm",
+    "material_group": "GRP-SEAL",
+    "base_uom": "PC",
+    "procurement_type": "F (External)",
+    "criticality": "Standard",
+    "quality_sensitivity": "High",
+    "price_behavior": "Stable",
+    "standard_lead_time_days": 10,
+    "benchmark_price_eur": 2.1,
+    "plant_relevance": [
+      "P001",
+      "P002",
+      "P003"
+    ],
+    "sourcing_strategy": "Catalog / Multi-Source",
+    "defect_tolerance_ppm": 300,
+    "min_order_qty": 200,
+    "lot_size": "FX"
+  },
+  {
+    "material_id": "MAT-008",
+    "description": "Seamless Precision Alloy Steel Tube 42CrMo4 60x5mm",
+    "material_group": "GRP-MET",
+    "base_uom": "M",
+    "procurement_type": "F (External)",
+    "criticality": "High",
+    "quality_sensitivity": "Medium",
+    "price_behavior": "Long-term Stability",
+    "standard_lead_time_days": 18,
+    "benchmark_price_eur": 32.5,
+    "plant_relevance": [
+      "P001",
+      "P002",
+      "P003"
+    ],
+    "sourcing_strategy": "Long-Term Value Contract",
+    "defect_tolerance_ppm": 400,
+    "min_order_qty": 100,
+    "lot_size": "EX"
+  },
+  {
+    "material_id": "MAT-009",
+    "description": "High-Conductivity Thermal Interface Compound TC-500",
+    "material_group": "GRP-CHEM",
+    "base_uom": "KG",
+    "procurement_type": "F (External)",
+    "criticality": "Quality-Critical",
+    "quality_sensitivity": "Very High",
+    "price_behavior": "Moderate Price Movements",
+    "standard_lead_time_days": 12,
+    "benchmark_price_eur": 95.0,
+    "plant_relevance": [
+      "P001"
+    ],
+    "sourcing_strategy": "Strict Process Audit Required",
+    "defect_tolerance_ppm": 80,
+    "min_order_qty": 20,
+    "lot_size": "EX"
+  },
+  {
+    "material_id": "MAT-010",
+    "description": "Ductile Cast Iron Planetary Housing CI-250",
+    "material_group": "GRP-MET",
+    "base_uom": "EA",
+    "procurement_type": "F (External)",
+    "criticality": "Standard",
+    "quality_sensitivity": "Medium",
+    "price_behavior": "Regional Freight Sensitive",
+    "standard_lead_time_days": 15,
+    "benchmark_price_eur": 175.0,
+    "plant_relevance": [
+      "P001",
+      "P003"
+    ],
+    "sourcing_strategy": "Regional Near-Plant Sourcing",
+    "defect_tolerance_ppm": 350,
+    "min_order_qty": 40,
+    "lot_size": "EX"
+  }
+]

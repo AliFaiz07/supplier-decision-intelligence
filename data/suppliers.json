@@ -1,0 +1,444 @@
+[
+  {
+    "supplier_id": "SUP-001",
+    "name": "Rheinland Industrietechnik GmbH",
+    "country": "DE",
+    "city": "Duisburg",
+    "street": "Industriestraße 45",
+    "postal_code": "47051",
+    "status": "Active",
+    "strategic_tier": "Preferred",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT30 (30 days net)",
+    "incoterms": "FCA Duisburg",
+    "annual_spend_eur": 1420000.0,
+    "currency": "EUR",
+    "risk_rating": "Low",
+    "profile_summary": "Solid German industrial component producer. Competitive pricing, reliable quality, dependable average lead times.",
+    "max_capacity_units_per_month": 45000,
+    "established_year": 1984,
+    "certifications": [
+      "ISO 9001:2015",
+      "ISO 14001:2015"
+    ],
+    "supported_material_groups": [
+      "GRP-HYD",
+      "GRP-MET",
+      "GRP-FAS"
+    ]
+  },
+  {
+    "supplier_id": "SUP-002",
+    "name": "Apex Component Logistics Sp. z o.o.",
+    "country": "PL",
+    "city": "Katowice",
+    "street": "ul. Hutnicza 12",
+    "postal_code": "40-241",
+    "status": "Active",
+    "strategic_tier": "Transactional",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT60 (60 days net)",
+    "incoterms": "DAP Munich",
+    "annual_spend_eur": 890000.0,
+    "currency": "PLN",
+    "risk_rating": "High",
+    "profile_summary": "Lowest headline unit price in the market. However, frequent delivery delays (76% OTD) and higher batch variance create operational friction.",
+    "max_capacity_units_per_month": 50000,
+    "established_year": 2011,
+    "certifications": [
+      "ISO 9001:2015"
+    ],
+    "supported_material_groups": [
+      "GRP-HYD",
+      "GRP-FAS",
+      "GRP-MET"
+    ]
+  },
+  {
+    "supplier_id": "SUP-003",
+    "name": "Valbruna Precision Metals S.p.A.",
+    "country": "IT",
+    "city": "Vicenza",
+    "street": "Via dell'Industria 88",
+    "postal_code": "36100",
+    "status": "Active",
+    "strategic_tier": "Strategic",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT30 (30 days net)",
+    "incoterms": "DAP Munich",
+    "annual_spend_eur": 2150000.0,
+    "currency": "EUR",
+    "risk_rating": "Low",
+    "profile_summary": "Top-tier precision engineering. High unit cost, but industry-leading 98.2% on-time delivery and near-zero defect rate (0.18%). Best for critical requirements.",
+    "max_capacity_units_per_month": 30000,
+    "established_year": 1968,
+    "certifications": [
+      "ISO 9001:2015",
+      "IATF 16949",
+      "ISO 45001"
+    ],
+    "supported_material_groups": [
+      "GRP-HYD",
+      "GRP-BEA",
+      "GRP-MET"
+    ]
+  },
+  {
+    "supplier_id": "SUP-004",
+    "name": "Nordisk Stål AB",
+    "country": "SE",
+    "city": "Västerås",
+    "street": "Stålv缠gen 14",
+    "postal_code": "721 30",
+    "status": "Active",
+    "strategic_tier": "Transactional",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT30 (30 days net)",
+    "incoterms": "CPT Munich",
+    "annual_spend_eur": 650000.0,
+    "currency": "EUR",
+    "risk_rating": "High",
+    "profile_summary": "Competitive price quotes, but persistent quality rejection rates (3.8% defect rate) cause rework and incoming inspection holds.",
+    "max_capacity_units_per_month": 35000,
+    "established_year": 1995,
+    "certifications": [
+      "ISO 9001:2015"
+    ],
+    "supported_material_groups": [
+      "GRP-HYD",
+      "GRP-MET",
+      "GRP-FAS"
+    ]
+  },
+  {
+    "supplier_id": "SUP-005",
+    "name": "Danubia Fluid Controls Kft",
+    "country": "HU",
+    "city": "Győr",
+    "street": "Fehérvári út 22",
+    "postal_code": "9023",
+    "status": "Active",
+    "strategic_tier": "Preferred",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT30 (30 days net)",
+    "incoterms": "DAP Munich",
+    "annual_spend_eur": 720000.0,
+    "currency": "EUR",
+    "risk_rating": "Medium",
+    "profile_summary": "Highly reliable on-time delivery (96.5%) with moderate pricing, but tightly constrained monthly manufacturing capacity (12,000 units max).",
+    "max_capacity_units_per_month": 12000,
+    "established_year": 2005,
+    "certifications": [
+      "ISO 9001:2015",
+      "ISO 14001:2015"
+    ],
+    "supported_material_groups": [
+      "GRP-HYD",
+      "GRP-SEAL"
+    ]
+  },
+  {
+    "supplier_id": "SUP-006",
+    "name": "Helios Werkzeuge & Antriebstechnik AG",
+    "country": "DE",
+    "city": "Stuttgart",
+    "street": "Neckarstraße 102",
+    "postal_code": "70190",
+    "status": "Active",
+    "strategic_tier": "Strategic",
+    "business_partner_category": "Organization",
+    "payment_terms": "2% 14, Net 30",
+    "incoterms": "DAP Munich",
+    "annual_spend_eur": 3400000.0,
+    "currency": "EUR",
+    "risk_rating": "Low",
+    "profile_summary": "Active enterprise master contract (CTR-4600001001) in place with guaranteed volume discount, indexed price stability, and robust 94% OTD.",
+    "max_capacity_units_per_month": 60000,
+    "established_year": 1952,
+    "certifications": [
+      "ISO 9001:2015",
+      "IATF 16949",
+      "ISO 50001"
+    ],
+    "supported_material_groups": [
+      "GRP-HYD",
+      "GRP-MET",
+      "GRP-BEA",
+      "GRP-FAS"
+    ]
+  },
+  {
+    "supplier_id": "SUP-007",
+    "name": "Brabant Mechatronics BV",
+    "country": "NL",
+    "city": "Eindhoven",
+    "street": "High Tech Campus 31",
+    "postal_code": "5656 AE",
+    "status": "Active",
+    "strategic_tier": "Preferred",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT30 (30 days net)",
+    "incoterms": "DAP Munich",
+    "annual_spend_eur": 1200000.0,
+    "currency": "EUR",
+    "risk_rating": "Medium",
+    "profile_summary": "Solid partner, but current purchasing outline contract (CTR-4600001002) expires in less than 30 days without scheduled renewal yet.",
+    "max_capacity_units_per_month": 25000,
+    "established_year": 2002,
+    "certifications": [
+      "ISO 9001:2015",
+      "ISO 13485"
+    ],
+    "supported_material_groups": [
+      "GRP-HYD",
+      "GRP-ELEC",
+      "GRP-BEA"
+    ]
+  },
+  {
+    "supplier_id": "SUP-008",
+    "name": "Iberia Forgings & Casting S.A.",
+    "country": "ES",
+    "city": "Bilbao",
+    "street": "Polígono Industrial Ugaldeguren 5",
+    "postal_code": "48170",
+    "status": "Active",
+    "strategic_tier": "Strategic",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT45 (45 days net)",
+    "incoterms": "FCA Bilbao",
+    "annual_spend_eur": 2800000.0,
+    "currency": "EUR",
+    "risk_rating": "Low",
+    "profile_summary": "Highly balanced tier-1 supplier. Strong cost-to-performance ratio, 94.5% OTD, 0.4% rejection rate, and stable capacity.",
+    "max_capacity_units_per_month": 70000,
+    "established_year": 1974,
+    "certifications": [
+      "ISO 9001:2015",
+      "IATF 16949"
+    ],
+    "supported_material_groups": [
+      "GRP-MET",
+      "GRP-HYD",
+      "GRP-FAS"
+    ]
+  },
+  {
+    "supplier_id": "SUP-009",
+    "name": "Silesia Fasteners & Precision Sp. z o.o.",
+    "country": "PL",
+    "city": "Wrocław",
+    "street": "ul. Krakowska 84",
+    "postal_code": "50-427",
+    "status": "Active",
+    "strategic_tier": "Transactional",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT30 (30 days net)",
+    "incoterms": "DAP Munich",
+    "annual_spend_eur": 510000.0,
+    "currency": "PLN",
+    "risk_rating": "High",
+    "profile_summary": "Recent marked deterioration in delivery performance: dropped from 94% OTD down to 74% over the last 90 days due to regional transport issues.",
+    "max_capacity_units_per_month": 40000,
+    "established_year": 2008,
+    "certifications": [
+      "ISO 9001:2015"
+    ],
+    "supported_material_groups": [
+      "GRP-FAS",
+      "GRP-MET"
+    ]
+  },
+  {
+    "supplier_id": "SUP-010",
+    "name": "Voralpen Gusswerk GmbH",
+    "country": "AT",
+    "city": "Steyr",
+    "street": "Werkstraße 19",
+    "postal_code": "4400",
+    "status": "Active",
+    "strategic_tier": "Preferred",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT30 (30 days net)",
+    "incoterms": "DAP Linz",
+    "annual_spend_eur": 1850000.0,
+    "currency": "EUR",
+    "risk_rating": "Medium",
+    "profile_summary": "Historically reputable foundry with stellar delivery, but past 60 days show multiple quality notifications and micro-porosity defect spikes.",
+    "max_capacity_units_per_month": 28000,
+    "established_year": 1961,
+    "certifications": [
+      "ISO 9001:2015",
+      "ISO 14001:2015"
+    ],
+    "supported_material_groups": [
+      "GRP-MET",
+      "GRP-HYD"
+    ]
+  },
+  {
+    "supplier_id": "SUP-011",
+    "name": "Pacific Industrial Component Corp",
+    "country": "TW",
+    "city": "Hsinchu",
+    "street": "Science Park Rd 18",
+    "postal_code": "30076",
+    "status": "Active",
+    "strategic_tier": "Transactional",
+    "business_partner_category": "Organization",
+    "payment_terms": "Letter of Credit / NT60",
+    "incoterms": "FOB Keelung",
+    "annual_spend_eur": 1600000.0,
+    "currency": "USD",
+    "risk_rating": "Medium",
+    "profile_summary": "International export manufacturer. Lowest unit quote on electronic/micro items, but requires 45-day maritime/air lead times and synthetic tariff/import friction.",
+    "max_capacity_units_per_month": 150000,
+    "established_year": 1999,
+    "certifications": [
+      "ISO 9001:2015",
+      "ISO 14001:2015",
+      "IATF 16949"
+    ],
+    "supported_material_groups": [
+      "GRP-ELEC",
+      "GRP-HYD",
+      "GRP-BEA"
+    ]
+  },
+  {
+    "supplier_id": "SUP-012",
+    "name": "Alpine Bearings AG",
+    "country": "CH",
+    "city": "Winterthur",
+    "street": "Zürcherstrasse 55",
+    "postal_code": "8400",
+    "status": "Active",
+    "strategic_tier": "Strategic",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT30 (30 days net)",
+    "incoterms": "DAP Munich",
+    "annual_spend_eur": 2400000.0,
+    "currency": "CHF",
+    "risk_rating": "Low",
+    "profile_summary": "Ultra-reliable Swiss precision supplier. 98.9% OTD, 0.08% defect rate, rapid emergency fulfillment, carrying a 12-15% price premium.",
+    "max_capacity_units_per_month": 22000,
+    "established_year": 1948,
+    "certifications": [
+      "ISO 9001:2015",
+      "ISO 14001",
+      "AS9100D"
+    ],
+    "supported_material_groups": [
+      "GRP-BEA",
+      "GRP-HYD",
+      "GRP-MET"
+    ]
+  },
+  {
+    "supplier_id": "SUP-013",
+    "name": "Ruhr Metallwaren & Schweißtechnik GmbH",
+    "country": "DE",
+    "city": "Essen",
+    "street": "Krupp-Allee 7",
+    "postal_code": "45127",
+    "status": "Active",
+    "strategic_tier": "Preferred",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT30 (30 days net)",
+    "incoterms": "DAP Munich",
+    "annual_spend_eur": 5200000.0,
+    "currency": "EUR",
+    "risk_rating": "High",
+    "profile_summary": "Extremely high supplier concentration: holds over 48% of total plant spend on metallic sub-assemblies. Heavy dependency exposes enterprise to operational risk.",
+    "max_capacity_units_per_month": 90000,
+    "established_year": 1971,
+    "certifications": [
+      "ISO 9001:2015",
+      "ISO 3834-2"
+    ],
+    "supported_material_groups": [
+      "GRP-MET",
+      "GRP-FAS",
+      "GRP-HYD"
+    ]
+  },
+  {
+    "supplier_id": "SUP-014",
+    "name": "Baltic Assembly Solutions OÜ",
+    "country": "EE",
+    "city": "Tallinn",
+    "street": "Mustamäe tee 16",
+    "postal_code": "10617",
+    "status": "Under Evaluation",
+    "strategic_tier": "Transactional",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT30 (30 days net)",
+    "incoterms": "DAP Munich",
+    "annual_spend_eur": 45000.0,
+    "currency": "EUR",
+    "risk_rating": "Medium",
+    "profile_summary": "Newly qualified supplier onboarded 60 days ago. Highly competitive quotations, but sparse historical order trace (only 2 sample POs executed).",
+    "max_capacity_units_per_month": 20000,
+    "established_year": 2022,
+    "certifications": [
+      "ISO 9001:2015"
+    ],
+    "supported_material_groups": [
+      "GRP-HYD",
+      "GRP-ELEC",
+      "GRP-SEAL"
+    ]
+  },
+  {
+    "supplier_id": "SUP-015",
+    "name": "Rhone Polymeres SAS",
+    "country": "FR",
+    "city": "Lyon",
+    "street": "Boulevard de la Chimie 4",
+    "postal_code": "69007",
+    "status": "Inactive",
+    "strategic_tier": "Transactional",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT30",
+    "incoterms": "EXW Lyon",
+    "annual_spend_eur": 0.0,
+    "currency": "EUR",
+    "risk_rating": "Critical",
+    "profile_summary": "Blocked / Inactive vendor in SAP vendor master. Failed environmental and REACH compliance audit in Q1 2026. Ineligible for new PO placement.",
+    "max_capacity_units_per_month": 15000,
+    "established_year": 1989,
+    "certifications": [],
+    "supported_material_groups": [
+      "GRP-CHEM",
+      "GRP-SEAL"
+    ]
+  },
+  {
+    "supplier_id": "SUP-016",
+    "name": "Saxon Precision Turning GmbH",
+    "country": "DE",
+    "city": "Chemnitz",
+    "street": "Zwickauer Str. 201",
+    "postal_code": "09116",
+    "status": "Active",
+    "strategic_tier": "Preferred",
+    "business_partner_category": "Organization",
+    "payment_terms": "NT30 (30 days net)",
+    "incoterms": "DAP Munich",
+    "annual_spend_eur": 1150000.0,
+    "currency": "EUR",
+    "risk_rating": "Low",
+    "profile_summary": "Agile medium-sized machine shop. Great second-source partner for split allocation (Quota arrangement) with high responsiveness and 93% OTD.",
+    "max_capacity_units_per_month": 32000,
+    "established_year": 1993,
+    "certifications": [
+      "ISO 9001:2015",
+      "IATF 16949"
+    ],
+    "supported_material_groups": [
+      "GRP-HYD",
+      "GRP-MET",
+      "GRP-BEA"
+    ]
+  }
+]

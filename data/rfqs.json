@@ -1,0 +1,40 @@
+[
+  {
+    "rfq_number": "RFQ-600001",
+    "pr_number": "PR-100010",
+    "material_id": "MAT-001",
+    "quantity": 10000,
+    "target_plant": "P001",
+    "deadline_date": "2026-09-24",
+    "status": "Closed / Quotations Received",
+    "invited_suppliers": [
+      "SUP-001",
+      "SUP-002",
+      "SUP-003",
+      "SUP-004",
+      "SUP-005",
+      "SUP-006",
+      "SUP-007",
+      "SUP-008",
+      "SUP-011",
+      "SUP-012",
+      "SUP-014",
+      "SUP-016"
+    ]
+  },
+  {
+    "rfq_number": "RFQ-600002",
+    "pr_number": "PR-100011",
+    "material_id": "MAT-002",
+    "quantity": 50000,
+    "target_plant": "P001",
+    "deadline_date": "2026-09-24",
+    "status": "Closed / Quotations Received",
+    "invited_suppliers": [
+      "SUP-001",
+      "SUP-002",
+      "SUP-008",
+      "SUP-009"
+    ]
+  }
+]

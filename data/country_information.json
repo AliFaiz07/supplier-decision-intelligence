@@ -1,0 +1,110 @@
+[
+  {
+    "country_code": "DE",
+    "name": "Germany",
+    "trade_zone": "EU",
+    "freight_factor_pct": 2.0,
+    "synthetic_customs_pct": 0.0,
+    "risk_rating": "Low",
+    "lead_time_buffer_days": 1
+  },
+  {
+    "country_code": "PL",
+    "name": "Poland",
+    "trade_zone": "EU",
+    "freight_factor_pct": 3.0,
+    "synthetic_customs_pct": 0.0,
+    "risk_rating": "Low",
+    "lead_time_buffer_days": 2
+  },
+  {
+    "country_code": "IT",
+    "name": "Italy",
+    "trade_zone": "EU",
+    "freight_factor_pct": 3.5,
+    "synthetic_customs_pct": 0.0,
+    "risk_rating": "Low",
+    "lead_time_buffer_days": 2
+  },
+  {
+    "country_code": "SE",
+    "name": "Sweden",
+    "trade_zone": "EU",
+    "freight_factor_pct": 4.0,
+    "synthetic_customs_pct": 0.0,
+    "risk_rating": "Low",
+    "lead_time_buffer_days": 3
+  },
+  {
+    "country_code": "HU",
+    "name": "Hungary",
+    "trade_zone": "EU",
+    "freight_factor_pct": 3.2,
+    "synthetic_customs_pct": 0.0,
+    "risk_rating": "Low",
+    "lead_time_buffer_days": 2
+  },
+  {
+    "country_code": "NL",
+    "name": "Netherlands",
+    "trade_zone": "EU",
+    "freight_factor_pct": 2.5,
+    "synthetic_customs_pct": 0.0,
+    "risk_rating": "Low",
+    "lead_time_buffer_days": 1
+  },
+  {
+    "country_code": "ES",
+    "name": "Spain",
+    "trade_zone": "EU",
+    "freight_factor_pct": 4.5,
+    "synthetic_customs_pct": 0.0,
+    "risk_rating": "Low",
+    "lead_time_buffer_days": 3
+  },
+  {
+    "country_code": "AT",
+    "name": "Austria",
+    "trade_zone": "EU",
+    "freight_factor_pct": 2.2,
+    "synthetic_customs_pct": 0.0,
+    "risk_rating": "Low",
+    "lead_time_buffer_days": 1
+  },
+  {
+    "country_code": "TW",
+    "name": "Taiwan",
+    "trade_zone": "Non-EU-APAC",
+    "freight_factor_pct": 7.5,
+    "synthetic_customs_pct": 4.8,
+    "risk_rating": "Medium",
+    "lead_time_buffer_days": 21
+  },
+  {
+    "country_code": "CH",
+    "name": "Switzerland",
+    "trade_zone": "EFTA",
+    "freight_factor_pct": 3.0,
+    "synthetic_customs_pct": 1.2,
+    "risk_rating": "Low",
+    "lead_time_buffer_days": 2
+  },
+  {
+    "country_code": "EE",
+    "name": "Estonia",
+    "trade_zone": "EU",
+    "freight_factor_pct": 3.8,
+    "synthetic_customs_pct": 0.0,
+    "risk_rating": "Low",
+    "lead_time_buffer_days": 3
+  },
+  {
+    "country_code": "FR",
+    "name": "France",
+    "trade_zone": "EU",
+    "freight_factor_pct": 3.0,
+    "synthetic_customs_pct": 0.0,
+    "risk_rating": "Low",
+    "lead_time_buffer_days": 2
+  }
+]

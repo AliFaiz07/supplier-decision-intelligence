@@ -1,0 +1,38 @@
+[
+  {
+    "currency": "EUR",
+    "rate_to_eur": 1.0,
+    "name": "Euro",
+    "symbol": "€"
+  },
+  {
+    "currency": "USD",
+    "rate_to_eur": 0.92,
+    "name": "US Dollar",
+    "symbol": "$"
+  },
+  {
+    "currency": "PLN",
+    "rate_to_eur": 0.2325,
+    "name": "Polish Złoty",
+    "symbol": "zł"
+  },
+  {
+    "currency": "CHF",
+    "rate_to_eur": 1.055,
+    "name": "Swiss Franc",
+    "symbol": "CHF"
+  },
+  {
+    "currency": "GBP",
+    "rate_to_eur": 1.17,
+    "name": "British Pound",
+    "symbol": "£"
+  },
+  {
+    "currency": "TWD",
+    "rate_to_eur": 0.029,
+    "name": "New Taiwan Dollar",
+    "symbol": "NT$"
+  }
+]

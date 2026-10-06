@@ -1,0 +1,50 @@
+[
+  {
+    "quota_id": "QA-MAT001-P001",
+    "material_id": "MAT-001",
+    "plant_id": "P001",
+    "valid_from": "2026-01-01",
+    "valid_to": "2026-12-31",
+    "items": [
+      {
+        "supplier_id": "SUP-006",
+        "quota": 50,
+        "allocated_qty": 12500,
+        "max_lot_size": 20000
+      },
+      {
+        "supplier_id": "SUP-008",
+        "quota": 30,
+        "allocated_qty": 7500,
+        "max_lot_size": 15000
+      },
+      {
+        "supplier_id": "SUP-016",
+        "quota": 20,
+        "allocated_qty": 5000,
+        "max_lot_size": 10000
+      }
+    ]
+  },
+  {
+    "quota_id": "QA-MAT006-P001",
+    "material_id": "MAT-006",
+    "plant_id": "P001",
+    "valid_from": "2026-01-01",
+    "valid_to": "2026-12-31",
+    "items": [
+      {
+        "supplier_id": "SUP-013",
+        "quota": 60,
+        "allocated_qty": 1800,
+        "max_lot_size": 3000
+      },
+      {
+        "supplier_id": "SUP-008",
+        "quota": 40,
+        "allocated_qty": 1200,
+        "max_lot_size": 2000
+      }
+    ]
+  }
+]

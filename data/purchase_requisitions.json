@@ -1,0 +1,67 @@
+[
+  {
+    "pr_number": "PR-100010",
+    "pr_item": 10,
+    "material_id": "MAT-001",
+    "quantity": 10000,
+    "plant_id": "P001",
+    "purchasing_org": "1000",
+    "purchasing_group": "P01",
+    "required_date": "2026-10-15",
+    "requested_by": "M. Weber (Production Line 2)",
+    "status": "Approved / Open for Sourcing",
+    "creation_date": "2026-09-15"
+  },
+  {
+    "pr_number": "PR-100011",
+    "pr_item": 10,
+    "material_id": "MAT-002",
+    "quantity": 50000,
+    "plant_id": "P001",
+    "purchasing_org": "1000",
+    "purchasing_group": "P01",
+    "required_date": "2026-10-10",
+    "requested_by": "J. Becker (Structure Assembly)",
+    "status": "Approved / Open for Sourcing",
+    "creation_date": "2026-09-18"
+  },
+  {
+    "pr_number": "PR-100012",
+    "pr_item": 10,
+    "material_id": "MAT-003",
+    "quantity": 1200,
+    "plant_id": "P001",
+    "purchasing_org": "1000",
+    "purchasing_group": "P02",
+    "required_date": "2026-10-25",
+    "requested_by": "Dr. K. Schmidt (Powertrain R&D)",
+    "status": "Approved / Open for Sourcing",
+    "creation_date": "2026-09-14"
+  },
+  {
+    "pr_number": "PR-100013",
+    "pr_item": 10,
+    "material_id": "MAT-005",
+    "quantity": 5000,
+    "plant_id": "P001",
+    "purchasing_org": "1000",
+    "purchasing_group": "P02",
+    "required_date": "2026-11-20",
+    "requested_by": "E. Braun (Electronics Integration)",
+    "status": "Approved / Open for Sourcing",
+    "creation_date": "2026-09-12"
+  },
+  {
+    "pr_number": "PR-100014",
+    "pr_item": 10,
+    "material_id": "MAT-006",
+    "quantity": 400,
+    "plant_id": "P001",
+    "purchasing_org": "1000",
+    "purchasing_group": "P03",
+    "required_date": "2026-10-30",
+    "requested_by": "F. Hoffmann (Engine Block Shop)",
+    "status": "Approved / Open for Sourcing",
+    "creation_date": "2026-09-10"
+  }
+]

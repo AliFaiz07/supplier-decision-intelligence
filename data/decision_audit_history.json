@@ -1,0 +1,178 @@
+[
+  {
+    "decision_id": "DEC-2026-0091",
+    "timestamp": "2026-09-18T14:22:10",
+    "material_id": "MAT-001",
+    "material_description": "Hydraulic Directional Control Valve HSV-40",
+    "quantity": 10000,
+    "plant_id": "P001",
+    "scenario": "Standard Sourcing (Balanced)",
+    "weights_applied": {
+      "price": 0.25,
+      "delivery": 0.25,
+      "quality": 0.2,
+      "lead_time": 0.15,
+      "contract": 0.1,
+      "risk": 0.05
+    },
+    "recommended_supplier_id": "SUP-006",
+    "recommended_supplier_name": "Helios Werkzeuge & Antriebstechnik AG",
+    "decision_score": 93.4,
+    "effective_unit_cost_eur": 190.67,
+    "total_cost_eur": 1906700.0,
+    "status": "Approved by Procurement Lead",
+    "action_taken": "PO Release Simulation Completed",
+    "user_notes": "Selected due to active framework contract CTR-4600001001 with 5.7% rebate.",
+    "expected_metrics": {
+      "expected_otif_pct": 96.0,
+      "expected_unit_price_eur": 190.67,
+      "expected_lead_time_days": 10,
+      "expected_defect_rate_pct": 0.45,
+      "expected_contract_status": "Active (CTR-4600001001)"
+    },
+    "actual_outcome": {
+      "has_outcome_data": true,
+      "observation_date": "2026-09-28",
+      "actual_otif_pct": 95.2,
+      "actual_avg_unit_price_eur": 190.67,
+      "actual_lead_time_days": 10,
+      "actual_defect_rate_pct": 0.41,
+      "otif_variance_pct": -0.8,
+      "price_variance_pct": 0.0,
+      "outcome_status": "Met Expectations",
+      "procurement_lesson": "Contract CTR-4600001001 provided price stability; lead time was honored precisely at 10 days."
+    }
+  },
+  {
+    "decision_id": "DEC-2026-0090",
+    "timestamp": "2026-09-12T09:45:00",
+    "material_id": "MAT-003",
+    "material_description": "Precision Ceramic Hybrid Ball Bearing 6205-2RS",
+    "quantity": 1200,
+    "plant_id": "P001",
+    "scenario": "Quality-Critical Sourcing",
+    "weights_applied": {
+      "price": 0.1,
+      "delivery": 0.2,
+      "quality": 0.5,
+      "lead_time": 0.1,
+      "contract": 0.05,
+      "risk": 0.05
+    },
+    "recommended_supplier_id": "SUP-003",
+    "recommended_supplier_name": "Valbruna Precision Metals S.p.A.",
+    "decision_score": 96.2,
+    "effective_unit_cost_eur": 82.0,
+    "total_cost_eur": 98400.0,
+    "status": "Audited & Archived",
+    "action_taken": "Outline Agreement Call-off",
+    "user_notes": "High criticality powertrain bearing requiring zero defect tolerance (0.18% historical defect rate).",
+    "expected_metrics": {
+      "expected_otif_pct": 94.0,
+      "expected_unit_price_eur": 82.0,
+      "expected_lead_time_days": 12,
+      "expected_defect_rate_pct": 0.2,
+      "expected_contract_status": "Active (CTR-4600001003)"
+    },
+    "actual_outcome": {
+      "has_outcome_data": true,
+      "observation_date": "2026-09-25",
+      "actual_otif_pct": 96.5,
+      "actual_avg_unit_price_eur": 82.0,
+      "actual_lead_time_days": 11,
+      "actual_defect_rate_pct": 0.15,
+      "otif_variance_pct": 2.5,
+      "price_variance_pct": 0.0,
+      "outcome_status": "Exceeded Expectations",
+      "procurement_lesson": "Premium metallurgical supplier delivered zero lot rejects across 1,200 units with 1 day early dock arrival."
+    }
+  },
+  {
+    "decision_id": "DEC-2026-0089",
+    "timestamp": "2026-08-28T16:10:45",
+    "material_id": "MAT-002",
+    "material_description": "High-Tensile Structural Fastener M16x80 Grade 10.9",
+    "quantity": 50000,
+    "plant_id": "P001",
+    "scenario": "Commodity Cost Optimization",
+    "weights_applied": {
+      "price": 0.5,
+      "delivery": 0.15,
+      "quality": 0.15,
+      "lead_time": 0.1,
+      "contract": 0.05,
+      "risk": 0.05
+    },
+    "recommended_supplier_id": "SUP-001",
+    "recommended_supplier_name": "Rheinland Industrietechnik GmbH",
+    "decision_score": 88.6,
+    "effective_unit_cost_eur": 4.26,
+    "total_cost_eur": 213000.0,
+    "status": "Completed",
+    "action_taken": "Standard PO Issue",
+    "user_notes": "SUP-002 rejected due to severe delivery volatility; SUP-001 chosen for balanced reliability.",
+    "expected_metrics": {
+      "expected_otif_pct": 92.0,
+      "expected_unit_price_eur": 4.26,
+      "expected_lead_time_days": 7,
+      "expected_defect_rate_pct": 0.8,
+      "expected_contract_status": "No Contract (Spot PIR)"
+    },
+    "actual_outcome": {
+      "has_outcome_data": true,
+      "observation_date": "2026-09-15",
+      "actual_otif_pct": 84.0,
+      "actual_avg_unit_price_eur": 4.58,
+      "actual_lead_time_days": 10,
+      "actual_defect_rate_pct": 1.15,
+      "otif_variance_pct": -8.0,
+      "price_variance_pct": 7.5,
+      "outcome_status": "Underperformed (Delivery & Cost)",
+      "procurement_lesson": "Spot purchase was vulnerable to transport surcharges (+7.5% price spike) and supplier priority queueing (+3 days delay). In the future, lock in outline agreement CTR."
+    }
+  },
+  {
+    "decision_id": "DEC-2026-0088",
+    "timestamp": "2026-08-15T11:05:00",
+    "material_id": "MAT-003",
+    "material_description": "Precision Ceramic Hybrid Ball Bearing 6205-2RS",
+    "quantity": 2500,
+    "plant_id": "P001",
+    "scenario": "Lowest Cost Sourcing",
+    "weights_applied": {
+      "price": 0.6,
+      "delivery": 0.15,
+      "quality": 0.1,
+      "lead_time": 0.1,
+      "contract": 0.05,
+      "risk": 0.0
+    },
+    "recommended_supplier_id": "SUP-004",
+    "recommended_supplier_name": "AeroTech Components GmbH",
+    "decision_score": 84.1,
+    "effective_unit_cost_eur": 102.0,
+    "total_cost_eur": 255000.0,
+    "status": "Completed",
+    "action_taken": "Standard PO Release",
+    "user_notes": "Selected on aggressive pricing despite slight delivery variance in Q2.",
+    "expected_metrics": {
+      "expected_otif_pct": 94.0,
+      "expected_unit_price_eur": 102.0,
+      "expected_lead_time_days": 8,
+      "expected_defect_rate_pct": 0.6,
+      "expected_contract_status": "No Contract"
+    },
+    "actual_outcome": {
+      "has_outcome_data": true,
+      "observation_date": "2026-09-10",
+      "actual_otif_pct": 81.0,
+      "actual_avg_unit_price_eur": 118.0,
+      "actual_lead_time_days": 12,
+      "actual_defect_rate_pct": 1.4,
+      "otif_variance_pct": -13.0,
+      "price_variance_pct": 15.7,
+      "outcome_status": "Severe Underperformance (Delivery & Price Escalation)",
+      "procurement_lesson": "SUP-004 performed 13.0 percentage points below delivery expectation while actual purchase price escalated +15.7% due to lack of contract ceiling. Led to the M-003 price anomaly flag."
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "plant_id": "P001",
+    "name": "Munich High-Precision Assembly Plant",
+    "company_code": "1000",
+    "purchasing_org": "1000",
+    "country": "DE",
+    "city": "Munich",
+    "postal_code": "80807",
+    "storage_locations": [
+      "SL01-Main Warehouse",
+      "SL02-Assembly Buffer",
+      "SL03-Incoming Inspection"
+    ],
+    "currency": "EUR"
+  },
+  {
+    "plant_id": "P002",
+    "name": "Katowice Component Manufacturing Plant",
+    "company_code": "2000",
+    "purchasing_org": "2000",
+    "country": "PL",
+    "city": "Katowice",
+    "postal_code": "40-001",
+    "storage_locations": [
+      "SL10-Raw Storage",
+      "SL11-Buffer Stock"
+    ],
+    "currency": "PLN"
+  },
+  {
+    "plant_id": "P003",
+    "name": "Linz Heavy Industrial Equipment Works",
+    "company_code": "3000",
+    "purchasing_org": "3000",
+    "country": "AT",
+    "city": "Linz",
+    "postal_code": "4020",
+    "storage_locations": [
+      "SL20-Heavy Yard",
+      "SL21-Subassembly"
+    ],
+    "currency": "EUR"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "scenario_id": "SCEN-01",
+    "scenario_number": 1,
+    "title": "Cheapest Supplier vs Best Overall Value",
+    "description": "Lowest headline price is offered by SUP-002, but historical delivery delays and risk signals make balanced options (SUP-006 / SUP-001) more prudent.",
+    "recommended_priority": "Balanced",
+    "weights": {
+      "price": 0.25,
+      "delivery": 0.25,
+      "quality": 0.2,
+      "lead_time": 0.15,
+      "contract": 0.1,
+      "risk": 0.05
+    },
+    "requirement_id": "REQ-001",
+    "key_trade_off": "Unit price savings of €16 vs 24% historical delivery delay risk."
+  },
+  {
+    "scenario_id": "SCEN-02",
+    "scenario_number": 2,
+    "title": "Best Delivery Reliability & Rapid Lead Time",
+    "description": "Urgent timeline favors suppliers with high on-time delivery rates and low lead times (SUP-012, SUP-003, SUP-005) even at higher prices.",
+    "recommended_priority": "Delivery-Focused",
+    "weights": {
+      "price": 0.1,
+      "delivery": 0.4,
+      "quality": 0.2,
+      "lead_time": 0.2,
+      "contract": 0.05,
+      "risk": 0.05
+    },
+    "requirement_id": "REQ-002",
+    "key_trade_off": "Premium unit cost accepted to secure 7-day delivery and 98.9% OTD guarantee."
+  },
+  {
+    "scenario_id": "SCEN-03",
+    "scenario_number": 3,
+    "title": "Best Quality Record for Critical Production Component",
+    "description": "Critical powertrain bearings require minimal defect tolerance. SUP-003 offers 0.18% historical defect rate compared to industry 1.5% average.",
+    "recommended_priority": "Quality-Critical",
+    "weights": {
+      "price": 0.1,
+      "delivery": 0.2,
+      "quality": 0.45,
+      "lead_time": 0.1,
+      "contract": 0.1,
+      "risk": 0.05
+    },
+    "requirement_id": "REQ-003",
+    "key_trade_off": "Quality scoring heavily weighted to avoid downstream manufacturing downtime."
+  },
+  {
+    "scenario_id": "SCEN-04",
+    "scenario_number": 4,
+    "title": "Cheapest but High Risk: Avoiding Flawed Sourcing",
+    "description": "Engine detects operational and quality risk signals on SUP-002 and SUP-004, suppressing them in favor of certified stable partners.",
+    "recommended_priority": "Risk-Sensitive",
+    "weights": {
+      "price": 0.15,
+      "delivery": 0.2,
+      "quality": 0.25,
+      "lead_time": 0.1,
+      "contract": 0.1,
+      "risk": 0.2
+    },
+    "requirement_id": "REQ-004",
+    "key_trade_off": "Risk penalties prevent recommendation of unreliable low-cost vendors."
+  },
+  {
+    "scenario_id": "SCEN-05",
+    "scenario_number": 5,
+    "title": "Existing Contract Advantage (Outline Agreement Synergy)",
+    "description": "SUP-006 holds active master agreement CTR-4600001001 with 5.7% volume rebate, making effective procurement cost lower than uncommitted spot quotes.",
+    "recommended_priority": "Contract-Focused",
+    "weights": {
+      "price": 0.2,
+      "delivery": 0.2,
+      "quality": 0.15,
+      "lead_time": 0.1,
+      "contract": 0.3,
+      "risk": 0.05
+    },
+    "requirement_id": "REQ-005",
+    "key_trade_off": "Contractual framework utilization reduces maverick buying and lowers effective landed cost."
+  },
+  {
+    "scenario_id": "SCEN-06",
+    "scenario_number": 6,
+    "title": "Contract Expiring (<30 Days Lifecycle Alert)",
+    "description": "SUP-007 offers an attractive price, but contract CTR-4600001002 expires 2026-10-25. Engine surfaces contract lifecycle warning.",
+    "recommended_priority": "Balanced",
+    "weights": {
+      "price": 0.25,
+      "delivery": 0.25,
+      "quality": 0.2,
+      "lead_time": 0.15,
+      "contract": 0.1,
+      "risk": 0.05
+    },
+    "requirement_id": "REQ-006",
+    "key_trade_off": "Immediate sourcing vs risk of unpriced delivery if shipment extends past contract cutoff."
+  },
+  {
+    "scenario_id": "SCEN-07",
+    "scenario_number": 7,
+    "title": "Price Volatility & Historical Band Analysis",
+    "description": "Fasteners subject to steel price movement. Compares current supplier quotes with 24-month historical price distributions.",
+    "recommended_priority": "Cost-Focused",
+    "weights": {
+      "price": 0.45,
+      "delivery": 0.2,
+      "quality": 0.15,
+      "lead_time": 0.1,
+      "contract": 0.05,
+      "risk": 0.05
+    },
+    "requirement_id": "REQ-007",
+    "key_trade_off": "Maximizing commercial savings within acceptable delivery tolerance."
+  },
+  {
+    "scenario_id": "SCEN-08",
+    "scenario_number": 8,
+    "title": "Delivery Deadline Critical (Strict Factory Milestone)",
+    "description": "Strict required delivery date of Oct 8, 2026 eliminates suppliers with >9 day lead times regardless of price discounts.",
+    "recommended_priority": "Delivery-Focused",
+    "weights": {
+      "price": 0.1,
+      "delivery": 0.45,
+      "quality": 0.15,
+      "lead_time": 0.25,
+      "contract": 0.02,
+      "risk": 0.03
+    },
+    "requirement_id": "REQ-008",
+    "key_trade_off": "Delivery speed and guaranteed on-dock compliance overrule unit pricing."
+  },
+  {
+    "scenario_id": "SCEN-09",
+    "scenario_number": 9,
+    "title": "Quality-Critical Production Material (Foundry Blanks)",
+    "description": "Material MAT-006 flagged as quality sensitive. High defect penalties disqualify SUP-010 due to recent foundry micro-porosity issues.",
+    "recommended_priority": "Quality-Critical",
+    "weights": {
+      "price": 0.1,
+      "delivery": 0.15,
+      "quality": 0.5,
+      "lead_time": 0.1,
+      "contract": 0.05,
+      "risk": 0.1
+    },
+    "requirement_id": "REQ-009",
+    "key_trade_off": "Zero defect tolerance outweighs regional transport convenience."
+  },
+  {
+    "scenario_id": "SCEN-10",
+    "scenario_number": 10,
+    "title": "Imported International Supplier (Synthetic Landed Cost)",
+    "description": "SUP-011 (Taiwan) has lowest quote ($32.50), but engine adds synthetic ocean freight (7.5%) and synthetic import duty (4.8%) to calculate true effective landed cost.",
+    "recommended_priority": "Balanced",
+    "weights": {
+      "price": 0.3,
+      "delivery": 0.2,
+      "quality": 0.2,
+      "lead_time": 0.15,
+      "contract": 0.05,
+      "risk": 0.1
+    },
+    "requirement_id": "REQ-010",
+    "key_trade_off": "Headline quote vs true landed cost including synthetic customs and maritime lead times."
+  },
+  {
+    "scenario_id": "SCEN-11",
+    "scenario_number": 11,
+    "title": "Supplier Spend Concentration De-Risking",
+    "description": "Ruhr Metallwaren (SUP-013) holds >48% of spend in material group. Engine applies concentration penalty to prevent single-supplier lock-in.",
+    "recommended_priority": "Risk-Sensitive",
+    "weights": {
+      "price": 0.15,
+      "delivery": 0.2,
+      "quality": 0.2,
+      "lead_time": 0.1,
+      "contract": 0.1,
+      "risk": 0.25
+    },
+    "requirement_id": "REQ-011",
+    "key_trade_off": "Diversifying supplier base even if incumbent holds standard pricing."
+  },
+  {
+    "scenario_id": "SCEN-12",
+    "scenario_number": 12,
+    "title": "Multi-Supplier Allocation (Quota Arrangement)",
+    "description": "Large 20,000 unit batch exceeds single supplier capacity or concentration limits. Engine splits allocation (50% SUP-006, 30% SUP-008, 20% SUP-016).",
+    "recommended_priority": "Balanced",
+    "weights": {
+      "price": 0.25,
+      "delivery": 0.25,
+      "quality": 0.2,
+      "lead_time": 0.15,
+      "contract": 0.1,
+      "risk": 0.05
+    },
+    "requirement_id": "REQ-012",
+    "key_trade_off": "Dual/triple sourcing safeguards supply continuity against individual line bottlenecks."
+  },
+  {
+    "scenario_id": "SCEN-13",
+    "scenario_number": 13,
+    "title": "New Supplier with Limited Evidence (Sparse History)",
+    "description": "SUP-014 offers attractive pricing, but system flags evidence insufficiency (only 2 historical orders), applying confidence discount.",
+    "recommended_priority": "Balanced",
+    "weights": {
+      "price": 0.25,
+      "delivery": 0.25,
+      "quality": 0.2,
+      "lead_time": 0.15,
+      "contract": 0.1,
+      "risk": 0.05
+    },
+    "requirement_id": "REQ-013",
+    "key_trade_off": "Encouraging vendor diversification vs mitigating risk of unproven execution."
+  },
+  {
+    "scenario_id": "SCEN-14",
+    "scenario_number": 14,
+    "title": "Recent Performance Deterioration Detection",
+    "description": "SUP-009 had strong 2-year average OTD (92%), but trailing 90 days dropped to 74%. Dynamic trend detection down-ranks the supplier.",
+    "recommended_priority": "Delivery-Focused",
+    "weights": {
+      "price": 0.15,
+      "delivery": 0.4,
+      "quality": 0.2,
+      "lead_time": 0.15,
+      "contract": 0.05,
+      "risk": 0.05
+    },
+    "requirement_id": "REQ-014",
+    "key_trade_off": "Weighting recent trailing 90-day trajectory over static multi-year averages."
+  }
+]

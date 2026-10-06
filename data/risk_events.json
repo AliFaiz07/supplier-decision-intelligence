@@ -1,0 +1,101 @@
+[
+  {
+    "event_id": "RSK-001",
+    "supplier_id": "SUP-002",
+    "event_type": "Logistics & Transport Disruption",
+    "severity": "High",
+    "date": "2026-08-15",
+    "title": "Persistent Driver Shortage at Katowice Logistics Hub",
+    "description": "Cross-border carrier capacity constrained. Average shipment lag increased by 4.2 days.",
+    "impact_dimension": "Delivery",
+    "active": true
+  },
+  {
+    "event_id": "RSK-002",
+    "supplier_id": "SUP-004",
+    "event_type": "Quality Audit Non-Conformance",
+    "severity": "High",
+    "date": "2026-07-20",
+    "title": "ISO Re-Certification Audit Minor Non-Conformities",
+    "description": "Calibration drifts identified in CNC machining center 3. Elevated surface roughness defect rate.",
+    "impact_dimension": "Quality",
+    "active": true
+  },
+  {
+    "event_id": "RSK-003",
+    "supplier_id": "SUP-007",
+    "event_type": "Contract Lifecycle Risk",
+    "severity": "Medium",
+    "date": "2026-09-01",
+    "title": "Outline Agreement Expiration Approaching (<30 Days)",
+    "description": "Contract CTR-4600001002 expires 2026-10-25. Lacks automatic renewal clause.",
+    "impact_dimension": "Contract",
+    "active": true
+  },
+  {
+    "event_id": "RSK-004",
+    "supplier_id": "SUP-009",
+    "event_type": "Operational Performance Deterioration",
+    "severity": "High",
+    "date": "2026-08-30",
+    "title": "Consecutive Delivery Delays in Q3 2026",
+    "description": "On-time delivery performance dropped 20 percentage points over trailing 90 days.",
+    "impact_dimension": "Delivery",
+    "active": true
+  },
+  {
+    "event_id": "RSK-005",
+    "supplier_id": "SUP-010",
+    "event_type": "Quality Notification Trend Alert",
+    "severity": "High",
+    "date": "2026-09-10",
+    "title": "Spike in Foundry Micro-Porosity Notifications",
+    "description": "Steyr facility reported refractory lining degradation. 3 consecutive batches flagged for inspection.",
+    "impact_dimension": "Quality",
+    "active": true
+  },
+  {
+    "event_id": "RSK-006",
+    "supplier_id": "SUP-011",
+    "event_type": "Geopolitical / Maritime Shipping Buffer",
+    "severity": "Medium",
+    "date": "2026-06-12",
+    "title": "Taiwan Strait Container Transit Congestion",
+    "description": "Ocean freight dwell times increased. Illustrative customs tariff and freight buffer required.",
+    "impact_dimension": "Lead Time / Cost",
+    "active": true
+  },
+  {
+    "event_id": "RSK-007",
+    "supplier_id": "SUP-013",
+    "event_type": "Supplier Concentration Over-Exposure",
+    "severity": "Critical",
+    "date": "2026-08-01",
+    "title": "Spend Concentration Alert: >48% Sourcing Share in GRP-MET",
+    "description": "Excessive enterprise reliance on Ruhr Metallwaren for critical blank forgings. Single point of failure.",
+    "impact_dimension": "Supplier Concentration",
+    "active": true
+  },
+  {
+    "event_id": "RSK-008",
+    "supplier_id": "SUP-014",
+    "event_type": "Incomplete Historical Evidence",
+    "severity": "Medium",
+    "date": "2026-08-10",
+    "title": "New Supplier Performance Insufficiency",
+    "description": "Only 2 historical purchase orders completed. Limited statistical sample size for evaluation.",
+    "impact_dimension": "Evidence / Reliability",
+    "active": true
+  },
+  {
+    "event_id": "RSK-009",
+    "supplier_id": "SUP-015",
+    "event_type": "Vendor Master Blocked Status",
+    "severity": "Critical",
+    "date": "2026-02-15",
+    "title": "Vendor Blocked in SAP Master Data for REACH Non-Compliance",
+    "description": "Regulatory audit failure. Purchasing block flag active on vendor master.",
+    "impact_dimension": "Eligibility",
+    "active": true
+  }
+]

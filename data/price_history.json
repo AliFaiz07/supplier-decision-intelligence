@@ -1,0 +1,5210 @@
+[
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 205.17,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 211.15,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 213.69,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 214.21,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 213.33,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 204.81,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 210.81,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 209.13,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 204.03,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 207.05,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 213.73,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 207.39,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 211.81,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 205.84,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 214.24,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 205.45,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 206.92,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 212.04,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 209.12,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 209.45,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 211.52,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 209.32,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 210.72,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-001",
+    "unit_price_eur": 212.95,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 183.98,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 183.79,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 179.76,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 180.01,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 184.66,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 184.05,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 186.57,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 184.92,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 178.76,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 181.68,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 184.91,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 187.18,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 183.92,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 185.21,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 185.49,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 180.49,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 180.54,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 187.15,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 185.5,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 186.59,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 180.13,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 184.53,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 183.55,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-001",
+    "unit_price_eur": 182.37,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 239.34,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 239.44,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 236.21,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 235.22,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 232.2,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 232.65,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 237.4,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 240.56,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 230.91,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 235.95,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 234.66,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 241.28,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 238.66,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 236.36,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 231.76,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 231.29,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 232.18,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 235.58,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 236.33,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 240.06,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 231.38,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 241.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 239.9,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-001",
+    "unit_price_eur": 240.69,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 197.09,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 192.14,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 191.97,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 191.75,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 191.87,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 188.94,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 190.32,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 191.22,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 189.11,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 195.02,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 191.38,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 189.56,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 188.53,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 196.97,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 192.7,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 196.14,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 195.44,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 192.66,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 194.07,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 196.86,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 188.34,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 190.23,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 189.6,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-001",
+    "unit_price_eur": 197.19,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 217.25,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 215.25,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 219.04,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 213.25,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 212.01,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 213.26,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 217.57,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 217.4,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 211.38,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 219.69,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 216.07,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 216.46,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 217.49,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 216.88,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 218.42,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 213.83,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 210.72,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 214.49,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 216.83,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 212.71,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 217.88,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 216.33,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 214.58,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-001",
+    "unit_price_eur": 220.95,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-006",
+    "material_id": "MAT-001",
+    "unit_price_eur": 198.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 205.47,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 207.94,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 205.1,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 200.13,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 208.83,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 200.36,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 203.87,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 203.73,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 207.54,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 203.56,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 200.61,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 202.38,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 206.62,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 200.98,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 205.86,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 207.64,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 201.28,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 203.51,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 203.37,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 206.48,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 208.39,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 206.9,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 209.92,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-001",
+    "unit_price_eur": 204.8,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 207.71,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 207.22,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 213.32,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 215.71,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 206.19,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 207.92,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 214.11,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 215.1,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 209.11,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 209.06,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 209.98,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 214.36,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 210.77,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 206.18,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 212.59,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 208.8,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 214.85,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 206.3,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 212.69,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 208.67,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 214.19,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 210.39,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 210.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-001",
+    "unit_price_eur": 210.42,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 172.67,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 167.49,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 166.21,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 170.45,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 167.73,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 171.34,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 166.88,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 165.33,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 168.21,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 168.26,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 173.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 166.16,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 167.11,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 165.5,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 167.39,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 167.12,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 168.39,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 170.67,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 166.04,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 168.37,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 168.4,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 170.75,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 172.3,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-001",
+    "unit_price_eur": 169.8,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 242.42,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 244.9,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 246.74,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 237.85,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 245.28,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 242.08,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 243.37,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 246.23,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 239.1,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 237.54,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 247.43,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 245.36,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 242.46,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 238.69,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 240.02,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 244.97,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 241.54,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 248.65,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 237.55,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 239.02,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 242.6,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 241.65,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 242.53,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-001",
+    "unit_price_eur": 238.09,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 186.52,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 188.69,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 188.19,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 187.85,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 194.3,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 185.46,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 186.98,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 190.11,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 193.85,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 186.33,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 192.54,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 191.87,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 187.25,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 191.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 191.78,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 194.66,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 187.11,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 186.5,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 185.92,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 186.85,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 191.96,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 194.64,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 192.88,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-014",
+    "material_id": "MAT-001",
+    "unit_price_eur": 194.36,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 218.22,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 214.84,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 215.28,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 213.59,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 210.84,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 210.94,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 209.43,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 215.28,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 215.18,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 209.61,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 211.59,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 210.14,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 218.2,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 216.16,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 210.27,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 213.0,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 211.59,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 213.83,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 212.71,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 218.18,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 209.14,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 217.13,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 208.46,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-001",
+    "unit_price_eur": 211.98,
+    "benchmark_price_eur": 210.0
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.39,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.21,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.16,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.16,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.28,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.94,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.09,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.91,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.2,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.24,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.95,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.47,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.26,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.29,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.43,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.95,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.23,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.5,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.47,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.24,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.08,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.97,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.55,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.02,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.06,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.74,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.56,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.41,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.5,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.07,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.56,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.82,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.81,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.42,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.83,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.79,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.79,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.48,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.82,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.03,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.6,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.04,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.38,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.0,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.41,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.06,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.93,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-002",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.55,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.96,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.23,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.26,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.82,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.47,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.21,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.28,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.03,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.98,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.41,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.1,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.14,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.32,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.92,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.11,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.15,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.06,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.91,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.45,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.04,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.54,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.06,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.1,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.37,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.94,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.63,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.73,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.64,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.89,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.66,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.59,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.26,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.2,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.86,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.27,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.23,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.16,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.25,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.09,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.69,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.67,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.3,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.9,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 4.21,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.92,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.62,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.84,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-009",
+    "material_id": "MAT-002",
+    "unit_price_eur": 3.89,
+    "benchmark_price_eur": 4.25
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 81.35,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 82.75,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 80.56,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 81.51,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 82.81,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 83.82,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 83.12,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 81.53,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 80.39,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 80.8,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 80.91,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 81.44,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 81.86,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 82.01,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 80.55,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 80.57,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 82.66,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 81.85,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 81.54,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 81.94,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 82.21,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 82.61,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 83.74,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-003",
+    "material_id": "MAT-003",
+    "unit_price_eur": 82.92,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 88.93,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 86.81,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 86.67,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 87.88,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 90.58,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 88.69,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 87.85,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 86.87,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 88.89,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 88.01,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 86.42,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 86.41,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 89.38,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 89.78,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 88.53,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 86.9,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 90.17,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 86.86,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 90.34,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 87.64,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 87.97,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 88.95,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 89.95,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-012",
+    "material_id": "MAT-003",
+    "unit_price_eur": 88.85,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 84.95,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 84.96,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 84.88,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 85.19,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 84.82,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 82.88,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 84.21,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 83.27,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 84.57,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 84.11,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 86.61,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 86.49,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 85.47,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 85.33,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 83.93,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 85.58,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 86.92,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 85.25,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 83.77,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 83.03,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 84.84,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 85.02,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 85.86,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-016",
+    "material_id": "MAT-003",
+    "unit_price_eur": 86.08,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.47,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 33.19,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.24,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.78,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.99,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.16,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.57,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.53,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.52,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.18,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.67,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.84,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.62,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 33.23,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 33.03,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 33.0,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.69,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.76,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 33.47,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.63,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.46,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 33.4,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.6,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-011",
+    "material_id": "MAT-005",
+    "unit_price_eur": 32.72,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.3,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.57,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.96,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.58,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.83,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 40.72,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.17,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 42.14,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 40.75,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 40.79,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 42.11,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 42.19,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.76,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.63,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.59,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.18,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.16,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.33,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 42.1,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.66,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 40.77,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.36,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 41.29,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-005",
+    "unit_price_eur": 42.02,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 439.88,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 438.79,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 448.21,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 434.42,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 432.13,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 452.22,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 432.94,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 451.53,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 445.63,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 447.64,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 435.91,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 449.41,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 437.16,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 443.56,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 437.18,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 433.6,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 447.5,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 436.46,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 432.32,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 451.11,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 436.16,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 436.32,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 433.4,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-006",
+    "unit_price_eur": 438.47,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 466.68,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 471.54,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 458.9,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 478.13,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 478.44,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 459.37,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 470.88,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 476.18,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 466.76,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 470.83,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 473.27,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 462.38,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 462.34,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 457.08,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 473.57,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 470.87,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 461.1,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 472.87,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 475.47,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 456.57,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 477.12,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 465.42,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 475.17,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-006",
+    "unit_price_eur": 477.41,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 427.09,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 444.49,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 443.44,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 430.35,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 442.59,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 445.27,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 432.6,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 427.11,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 432.79,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 439.41,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 446.49,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 433.59,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 436.18,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 440.25,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 437.7,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 445.64,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 429.22,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 437.27,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 432.23,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 443.89,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 433.49,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 442.2,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 440.4,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-006",
+    "unit_price_eur": 441.93,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 29.91,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.4,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.34,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.92,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.18,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.82,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.86,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.51,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.54,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.39,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.5,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.04,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 31.39,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.62,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 31.32,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 29.9,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.47,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.57,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.3,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.39,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.78,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.76,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.29,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-008",
+    "material_id": "MAT-008",
+    "unit_price_eur": 30.44,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.93,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.64,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.31,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.8,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.67,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 34.07,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 34.01,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.81,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.68,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.6,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 34.1,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.15,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.9,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 34.13,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.33,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.29,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 34.18,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.16,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.7,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 34.05,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.79,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.87,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.91,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-001",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.8,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.26,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.12,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.44,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.01,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.01,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.74,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.65,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.33,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.5,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.62,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.48,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.02,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.41,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.55,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.87,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.26,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.32,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.95,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.62,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.87,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.24,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.36,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 32.83,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-013",
+    "material_id": "MAT-008",
+    "unit_price_eur": 33.07,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 102.05,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 102.14,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.85,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.62,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.8,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.6,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.77,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.66,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.94,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 102.16,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 102.03,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.65,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 102.32,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 102.39,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.98,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.83,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.74,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.71,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 102.11,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 102.18,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 102.37,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 101.9,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 102.31,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-004",
+    "material_id": "MAT-003",
+    "unit_price_eur": 118.0,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.54,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.98,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.48,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.2,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 19.02,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.94,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.25,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.93,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.24,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 19.05,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.49,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.25,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 19.04,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.9,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.83,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 19.04,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.56,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.8,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.52,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.48,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.34,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.56,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.27,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-005",
+    "material_id": "MAT-004",
+    "unit_price_eur": 18.3,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.87,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.85,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.75,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.84,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.83,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.88,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.87,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.78,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.75,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.83,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.81,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.84,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.87,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.78,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.75,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.81,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.82,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.85,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.85,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.76,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.88,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.78,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.87,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-007",
+    "material_id": "MAT-007",
+    "unit_price_eur": 2.82,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-10",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 312.75,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-11",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 315.77,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2024-12",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 316.48,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-01",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 307.47,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-02",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 317.38,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-03",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 319.08,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-04",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 311.88,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-05",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 310.21,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-06",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 308.06,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-07",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 312.43,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-08",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 312.97,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-09",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 315.2,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-10",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 306.51,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-11",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 314.32,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2025-12",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 312.42,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-01",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 304.53,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-02",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 309.14,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-03",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 313.77,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-04",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 309.71,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-05",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 311.93,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-06",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 314.59,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-07",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 310.13,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-08",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 308.45,
+    "benchmark_price_eur": 85.5
+  },
+  {
+    "period": "2026-09",
+    "supplier_id": "SUP-010",
+    "material_id": "MAT-010",
+    "unit_price_eur": 306.65,
+    "benchmark_price_eur": 85.5
+  }
+]
